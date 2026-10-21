@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <!-- 순수 비즈니스 로직 라이브러리 : WinForms 등 UI 프레임워크를 전혀 참조하지 않음 -->
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>PokerCore</RootNamespace>
+  </PropertyGroup>
+
+</Project>
